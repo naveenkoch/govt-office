@@ -1,5 +1,5 @@
 package com.govt.office.controller;
 
-public class LoginController {
+public class UserManagementController {
 
 }
